@@ -1,4 +1,4 @@
-# Smart E-Waste Bin Sorter 🗂️♻️
+# Smart Waste Bin Sorter 🗂️♻️
 
 An intelligent waste sorting system that uses computer vision and machine learning to automatically classify and sort electronic waste into appropriate bins. The system combines a Raspberry Pi-based image recognition system with an Arduino-controlled servo mechanism for automated sorting.
 
